@@ -736,11 +736,12 @@ ul.row {
     top: -0.1rem;
     left: -0.1rem;
     right: -0.1rem;
+    bottom: -0.1rem;
     z-index: 1;
 }
 
 .card-work:hover .card-inner {
-    background: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .card-work .card-title {
